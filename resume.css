@@ -1,0 +1,11 @@
+body{
+    font-family:"Arial";
+  }
+  .section-title{
+    text-transform:uppercase;
+    
+  }
+  .name{
+    text-align:center;
+    text-transform:uppercase;
+  }
